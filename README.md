@@ -8,7 +8,7 @@ I will manage to be better code without spaghetti code.
 python ktm.py
 ```
 ## Preview
-
+![](./gif/preview.gif)
 
 ## License
 Copyright taiplex. All rights reserved.
